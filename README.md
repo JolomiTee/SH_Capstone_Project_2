@@ -2,9 +2,9 @@
 This is a webpage given to recreate as part of the Side Hustle Frontend development course. Live link is below: https://jolomitee.github.io/SH_Capstone_Project_1/
 
 ## Group Members:
-# Jolomi Taiwo
-Kokoette Ekpo.
-Richmond Ayitey.
+### Jolomi Taiwo
+Kokoette Ekpo.R
+ichmond Ayitey.
 Demilade Asa.
 Chidera Arinze.
 David Olamide Adenusi.
