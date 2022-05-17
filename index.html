@@ -23,56 +23,29 @@
     <title>SH Navbar and Form</title>
 </head>
 <body>
-  <header id="home">
-    <div class="navigation">
+  <header>
+    <nav class="topnav" id="myTopnav">
+      <a href="#home" class="active">Home</a>
+      <a href="#news">News</a>
+      <a href="#contact">Contact</a>
+      <a href="#about">About</a>
+      <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+        <i class="fa fa-bars"></i>
+      </a>
 
-      <div class="hamburger-menu">
-        <i class="fas fa-bars toggle"   ></i>
-        <i class="fas fa-times toggle open"></i>   
-      </div>
-
-      <nav>
-        <a class="navbar-brand" href="index.html">
-          <img class="img-fluid" src="./images/big soup.jpg" alt="">
-        </a>
-        <ul class="nav-list text-center p-0">
-          <li class="nav-item">
-            <a class="nav-link" href="#home">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#about">About</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#menu">Menu</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#chefs">Our Chefs</a>
-          </li>
-        </ul>
-      </nav>
-    
-    </div>
+    </nav>
   </header>
 
-  <div class="topnav" id="myTopnav">
-  <a href="#home" class="active">Home</a>
-  <a href="#news">News</a>
-  <a href="#contact">Contact</a>
-  <a href="#about">About</a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
-</div>
 
 
   <div class="container p-5 text-white">
     <div class="row form form-row">
 
-      <div class="col-12 text-center">
+      <div class="sign-up col-12 text-center mb-4">
         <div class="display-4 text-center mb-4 text-decoration-underline">
           Sign-Up Here!
         </div>
-        <small class="">
+        <small class="fs-5">
           Please Fill the form below:
         </small>
       </div>

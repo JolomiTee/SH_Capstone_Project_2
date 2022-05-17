@@ -1,4 +1,4 @@
-
+// css responsive navigation bar
 
 function myFunction() {
   var x = document.getElementById("myTopnav");
@@ -16,9 +16,6 @@ const form = document.querySelector('[data-form]');
 const formInputs = document.querySelectorAll('[data-form-input]');
 
 const formBtn = document.querySelector('[data-form-btn]');
-
-
-
 
 
 // add event to all form input field
