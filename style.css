@@ -46,7 +46,7 @@ nav{
 
 
 .hamburger-menu{
-    position: fixed;
+    position: relative;
     top: 25px;
     right: 15px;
     width: 50px;
@@ -98,10 +98,7 @@ nav{
 
 
 
-@media (min-width: 576px){
-    .navbar-brand{
-        max-width: 150px;
-    }
+@media (min-width: 426px){
     .hamburger-menu{
         top: 35px;
         right: 25px;
@@ -109,17 +106,8 @@ nav{
     
     
 }
+
 @media (min-width: 768px){
-    .navbar-brand{
-        max-width: 150px;
-    }
-    .hamburger-menu{
-        top: 35px;
-        right: 25px;
-    }
-    
-}
-@media (min-width: 992px){
    header > .navigation{
        padding: 0 15px;
    }
