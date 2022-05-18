@@ -26,6 +26,4 @@ Adebowale Precious
 
 abrahamb
 
-Gabriel Odunuga
-
 Oyeniran Samuel
